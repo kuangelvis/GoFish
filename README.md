@@ -7,12 +7,14 @@ Pygame Go Fish is a Python program built using the Pygame library. It allows use
   Player vs. computer gameplay
   Score tracking and victory conditions
   Customizable card deck and game settings
+  
 **How to Play**
   Launch the game by following the installation instructions.
   Follow the on-screen prompts to begin a new game.
   Use the mouse to interact with the game interface.
   Follow the traditional rules of Go Fish to play against the computer opponent.
   Enjoy the game!
+
 
 **Contributors**
   Elvis Kuang(myself)
